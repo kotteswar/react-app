@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Dr. Mitthra's Homoeo Clinic
         </a>
       </header>
     </div>
